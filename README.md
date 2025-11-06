@@ -7,15 +7,15 @@ This framework has been iterated **500+ times** across GPT-5, Claude 4.5, and Ge
 ---
 
 ## ⚙️ What This Repository Contains
-
+```markdown
 📁 data-science-resume-master-prompt
 │
-├── Master_Prompt_v1.pdf            → Full master prompt (copy-paste ready)
+├── Master_Prompt_v1.pdf           → Full master prompt (copy-paste ready)
 │
 └── templates/
-├── ATS_2Page_Template.docx    → 2-page ATS-friendly resume template
-└── 1Pager_Template_A_or_B.pdf      → Recruiter-friendly one-pager (variant A or variant B)
-
+  ├── ATS_2Page_Template.docx      → 2-page ATS-friendly resume template
+  └── 1Pager_Template_A_or_B.pdf   → Recruiter-friendly one-pager (variant A or variant B)
+```
 ---
 
 ## 🧩 How To Use
